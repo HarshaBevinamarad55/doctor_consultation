@@ -1,0 +1,8 @@
+| API/Service                  | Key Features                                              | Compliance                          | Notes                                  |
+| ---------------------------- | --------------------------------------------------------- | ----------------------------------- | -------------------------------------- |
+| **Twilio Video**             | Real-time video, screen sharing, encrypted media          | HIPAA-ready (with BAA)              | Popular in telehealth; excellent docs  |
+| **Vonage (formerly TokBox)** | Real-time WebRTC-based video, text chat, screen sharing   | HIPAA-ready (with BAA)              | Well-supported SDKs for web and mobile |
+| **Daily.co**                 | WebRTC-based video, end-to-end encryption (E2EE) optional | HIPAA-ready (on request)            | Lightweight, good for custom UIs       |
+| **Agora**                    | High-quality low-latency video                            | HIPAA available (contact sales)     | Great for global teleconsultations     |
+| **Zoom Video SDK**           | Integrate Zoom-quality video into your own app            | HIPAA (Zoom for Healthcare)         | Well-trusted; full BAA required        |
+| **WebRTC (self-hosted)**     | Open standard for peer-to-peer video                      | Requires custom security/compliance | High control, more complexity          |
